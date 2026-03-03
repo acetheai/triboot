@@ -55,7 +55,7 @@ On Arch, the GRUB packages are `grub` and `efibootmgr`.
 ## Installation
 
 ```bash
-git clone <TBD: repository URL>
+git clone https://github.com/acetheai/triboot.git
 cd triboot
 chmod +x triboot.sh
 ```
